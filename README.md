@@ -73,7 +73,7 @@ This project doesn’t need any dependency but it configure the cluster and the 
 
 ####  2. Download and installation
 
-DDownload the repository code with `git clone` or use download button.
+Download the repository code with `git clone` or use download button.
 
 We use [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/) for working with this project.
 
