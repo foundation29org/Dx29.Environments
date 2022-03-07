@@ -4,6 +4,8 @@
 
 Dx29 Environments
 ==============================================================================================================================================
+[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
 ### **Overview**
 
 To create and configure the different environments, a list of scripts has been implemented in this project. In it you can find the different steps necessary to deploy from scratch each of the environments, and also how to add the file with the values or secret keys required by the different components of the application in a secure way.
